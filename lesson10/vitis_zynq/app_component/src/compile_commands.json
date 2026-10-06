@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/app_component/build",
+  "command": "/home/sdongles/tools/amd/2026.1/Vitis/gnu/aarch32/lin/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -I/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/app_component/src -isystem /home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/export/platform/sw/standalone_ps7_cortexa9_0/include -isystem /home/sdongles/tools/amd/2026.1/gnu/aarch32/lin/gcc-arm-none-eabi/x86_64-oesdk-linux/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/13.4.0/include -isystem /home/sdongles/tools/amd/2026.1/gnu/aarch32/lin/gcc-arm-none-eabi/x86_64-oesdk-linux/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/13.4.0/include-fixed -isystem /home/sdongles/tools/amd/2026.1/Vitis/gnu/aarch32/lin/gcc-arm-none-eabi/aarch32-xilinx-eabi/usr/include  -DSDT -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -MMD -MP -specs=/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/export/platform/sw/standalone_ps7_cortexa9_0/Xilinx.spec -I/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/export/platform/sw/standalone_ps7_cortexa9_0/include -Wall -Wextra      -O0  -g3     -U__clang__ -o CMakeFiles/app_component.elf.dir/main.c.obj -c /home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/app_component/src/main.c",
+  "file": "/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/app_component/src/main.c",
+  "output": "CMakeFiles/app_component.elf.dir/main.c.obj"
+}
+]

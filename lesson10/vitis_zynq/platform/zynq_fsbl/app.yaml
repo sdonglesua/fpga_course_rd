@@ -1,0 +1,4 @@
+domain_path: /home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp
+app_src_dir: /home/sdongles/tools/amd/2026.1/Vitis/data/embeddedsw/lib/sw_apps/zynq_fsbl
+template: zynq_fsbl
+lang: c

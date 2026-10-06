@@ -1,0 +1,4 @@
+/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/build/CMakeFiles/print_build_info.dir
+/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir

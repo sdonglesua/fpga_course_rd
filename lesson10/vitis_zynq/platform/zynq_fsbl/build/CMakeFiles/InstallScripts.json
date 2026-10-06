@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
