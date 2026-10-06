@@ -144,6 +144,13 @@
 /home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/sdps/src/CMakeFiles/install.dir
 /home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/sdps/src/CMakeFiles/install/local.dir
 /home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/sdps/src/CMakeFiles/install/strip.dir
+/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/tmrctr/src/CMakeFiles/tmrctr.dir
+/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/tmrctr/src/CMakeFiles/edit_cache.dir
+/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/tmrctr/src/CMakeFiles/rebuild_cache.dir
+/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/tmrctr/src/CMakeFiles/list_install_components.dir
+/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/tmrctr/src/CMakeFiles/install.dir
+/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/tmrctr/src/CMakeFiles/install/local.dir
+/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/tmrctr/src/CMakeFiles/install/strip.dir
 /home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/uartps/src/CMakeFiles/uartps.dir
 /home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/uartps/src/CMakeFiles/edit_cache.dir
 /home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/uartps/src/CMakeFiles/rebuild_cache.dir

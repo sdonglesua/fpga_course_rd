@@ -12,7 +12,7 @@
 -- Detecting CXX compile features - done
 -- The ASM compiler identification is GNU
 -- Found assembler: /home/sdongles/tools/amd/2026.1/Vitis/gnu/aarch32/lin/gcc-arm-none-eabi/bin/arm-none-eabi-gcc
--- Configuring done (0.6s)
+-- Configuring done (0.7s)
 -- Generating done (0.0s)
 -- Build files have been written to: /home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp
 -- Cache values
@@ -116,7 +116,7 @@ XILFFS_word_access:BOOL=ON
 XILTIMER_en_interval_timer:BOOL=OFF
 
 // This parameter is used to select specific timer for sleep functionality
-XILTIMER_sleep_timer:STRING=Default;
+XILTIMER_sleep_timer:STRING=Default
 
 // This parameter is used to select specific timer for tick functionality
 XILTIMER_tick_timer:STRING=None

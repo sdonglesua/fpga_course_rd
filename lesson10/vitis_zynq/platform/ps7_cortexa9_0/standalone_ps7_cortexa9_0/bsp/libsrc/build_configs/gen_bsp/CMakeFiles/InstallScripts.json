@@ -23,6 +23,7 @@
 		"/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/scutimer/src/cmake_install.cmake",
 		"/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/scuwdt/src/cmake_install.cmake",
 		"/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/sdps/src/cmake_install.cmake",
+		"/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/tmrctr/src/cmake_install.cmake",
 		"/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/uartps/src/cmake_install.cmake",
 		"/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/usbps/src/cmake_install.cmake",
 		"/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/xadcps/src/cmake_install.cmake",

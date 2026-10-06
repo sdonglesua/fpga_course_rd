@@ -339,7 +339,7 @@ XILFFS_word_access:BOOL=ON
 XILTIMER_en_interval_timer:BOOL=OFF
 
 //This parameter is used to select specific timer for sleep functionality
-XILTIMER_sleep_timer:STRING=Default;
+XILTIMER_sleep_timer:STRING=Default
 
 //This parameter is used to select specific timer for tick functionality
 XILTIMER_tick_timer:STRING=None
@@ -523,6 +523,15 @@ standalone_ttc_select_cntr:STRING=None
 standalone_xpm_support:BOOL=OFF
 
 //Value Computed by CMake
+tmrctr_BINARY_DIR:STATIC=/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/tmrctr/src
+
+//Value Computed by CMake
+tmrctr_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+tmrctr_SOURCE_DIR:STATIC=/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/tmrctr/src
+
+//Value Computed by CMake
 uartps_BINARY_DIR:STATIC=/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/uartps/src
 
 //Value Computed by CMake
@@ -701,7 +710,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=31
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=32
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
@@ -755,9 +764,9 @@ XILFFS_use_lfn-STRINGS:INTERNAL=0;1;2;3
 //STRINGS property for variable: XILFFS_use_strfunc
 XILFFS_use_strfunc-STRINGS:INTERNAL=0;1;2
 //STRINGS property for variable: XILTIMER_sleep_timer
-XILTIMER_sleep_timer-STRINGS:INTERNAL=Default;ps7_scutimer_0
+XILTIMER_sleep_timer-STRINGS:INTERNAL=Default;axi_timer_0;ps7_scutimer_0
 //STRINGS property for variable: XILTIMER_tick_timer
-XILTIMER_tick_timer-STRINGS:INTERNAL=None;ps7_scutimer_0
+XILTIMER_tick_timer-STRINGS:INTERNAL=None;axi_timer_0;ps7_scutimer_0
 //STRINGS property for variable: standalone_enable_sw_intrusive_profiling
 standalone_enable_sw_intrusive_profiling-STRINGS:INTERNAL=None
 //STRINGS property for variable: standalone_microblaze_exceptions
