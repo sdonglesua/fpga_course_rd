@@ -936,6 +936,21 @@
           }
         }
       }
+    },
+    "elf_association": {
+      "file": {
+        "name": "../../../../../vitis_mb/app_component/build/app_component.elf",
+        "type": "ELF",
+        "checksum": "3275851436",
+        "IsVisible": "1",
+        "ScopedToRef": "design_1",
+        "ScopedToCell": [
+          "microblaze_riscv_0"
+        ],
+        "UsedIn": [
+          "simulation"
+        ]
+      }
     }
   }
 }

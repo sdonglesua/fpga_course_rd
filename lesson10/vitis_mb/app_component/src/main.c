@@ -48,8 +48,8 @@ void TimerISR(void *CallBackRef, u8 TimerNumber) {
     }
 }
 
-#define CNT_VAL_MIN 10000000
-#define CNT_VAL_MAX 100000000
+#define CNT_VAL_MIN 10000
+#define CNT_VAL_MAX 100000
 #define CNT_VAL_STEP 50
 
 int main() {
@@ -71,7 +71,7 @@ int main() {
         return status;    
     }
 
-    uint32_t cnt_val = 10000000;
+    uint32_t cnt_val = CNT_VAL_MIN;
     
     XGpio_SetDataDirection(&led_gpio, 1, 0x0); // вихід
     XGpio_SetDataDirection(&btn_gpio, 1, 0xF); // вхід
