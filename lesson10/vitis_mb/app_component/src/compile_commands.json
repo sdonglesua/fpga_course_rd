@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_mb/app_component/build",
+  "command": "/home/sdongles/tools/amd/2026.1/Vitis/gnu/riscv/lin/bin/riscv64-unknown-elf-gcc -I/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_mb/app_component/src -isystem /home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_mb/platform/export/platform/sw/standalone_microblaze_riscv_0/include -isystem /home/sdongles/tools/amd/2026.1/gnu/riscv/lin/x86_64-oesdk-linux/usr/lib/riscv32-xilinx-elf/gcc/riscv32-xilinx-elf/13.4.0/include -isystem /home/sdongles/tools/amd/2026.1/gnu/riscv/lin/x86_64-oesdk-linux/usr/lib/riscv32-xilinx-elf/gcc/riscv32-xilinx-elf/13.4.0/include-fixed -isystem /home/sdongles/tools/amd/2026.1/Vitis/gnu/riscv/lin/riscv32-xilinx-elf/usr/include   -march=rv32i_zicsr_zifencei -mabi=ilp32 -DSDT  -MMD -MP  -specs=/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_mb/platform/export/platform/sw/standalone_microblaze_riscv_0/Xilinx.spec -I/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_mb/platform/export/platform/sw/standalone_microblaze_riscv_0/include -Wall -Wextra      -O0  -g3     -U__clang__ -o CMakeFiles/app_component.elf.dir/main.c.obj -c /home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_mb/app_component/src/main.c",
+  "file": "/home/sdongles/work/robotdreams/fpga_course_rd/lesson10/vitis_mb/app_component/src/main.c",
+  "output": "CMakeFiles/app_component.elf.dir/main.c.obj"
+}
+]
